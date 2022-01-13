@@ -1,4 +1,4 @@
-# CMIT 326 Cloud Vendors Comparison presentation
+# Markdown Tools, Technology and Techniques (T3) Talk
 
 ## Setup
 
